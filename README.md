@@ -1,4 +1,4 @@
-# NIHAO论坛
+# NIHAO论坛2.0
 
 该项目为NIHAO论坛
 
