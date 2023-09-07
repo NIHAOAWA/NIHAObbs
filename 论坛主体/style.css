@@ -43,3 +43,29 @@ header {
   border: none;
   cursor: pointer;
 }
+  .friend-links {
+    background-color: #f9f9f9;
+    padding: 10px;
+  }
+
+  .friend-links h3 {
+    margin: 0;
+    padding-bottom: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+  }
+
+  .friend-link-item {
+    margin-bottom: 5px;
+  }
+
+  .friend-link-item a {
+    text-decoration: none;
+    color: #777;
+    transition: color 0.3s ease;
+  }
+
+  .friend-link-item a:hover {
+    color: #333;
+  }
