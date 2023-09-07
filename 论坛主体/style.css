@@ -69,3 +69,30 @@ header {
   .friend-link-item a:hover {
     color: #333;
   }
+.post-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.post {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.post .title {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.post .content {
+  font-size: 14px;
+}
+
+.post .author {
+  font-size: 12px;
+  color: #888;
+}
